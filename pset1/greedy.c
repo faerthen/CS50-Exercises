@@ -6,8 +6,7 @@ Assume that the only coins available are quarters (25¢), dimes (10¢), nickels 
 #include <stdio.h>
 #include <cs50.h>
 
-                                                            // declare all variables
-int     cents,
+int     cents,                                                // declare all variables
         count = 0,
         q,
         d,
